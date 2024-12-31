@@ -1,3 +1,4 @@
 # PumasMX
 Project about players' statistics, their needs and possible signings that Pumas need
-<iframe src="https://giphy.com/embed/NqENyV0Yp8ACsvkoN8" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pumas-MX-NqENyV0Yp8ACsvkoN8">via GIPHY</a></p>
+
+!(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnprZ3o1eTliOWI2dnA1aGVrbXc5MmxoOWdya3BpaDloaDlzbWd6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NqENyV0Yp8ACsvkoN8/giphy.gif)
