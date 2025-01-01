@@ -11,5 +11,5 @@ Inside this carpet the original databases used for this analysis will be shown.
 **Transfermarkt** 
 
 <a href="https://www.transfermarkt.es/">
-    <img src="https://tmsi.akamaized.net/head/tm_logo_rebrush.svg" alt="Logo transfermarkt" width="50" />
+    <img src="https://tmsi.akamaized.net/head/tm_logo_rebrush.svg" alt="Logo transfermarkt" width="100" />
 </a>
