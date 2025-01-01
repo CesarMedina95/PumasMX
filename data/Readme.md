@@ -17,5 +17,5 @@ Inside this carpet the original databases used for this analysis will be shown.
 **Sports Open Data** 
 
 <a href="https://sportsopendata.net/">
-    <img src="https://sportsopendata.net/wp-content/uploads/2015/07/logo.png" alt="Logo Sports Open Data" width="100" />
+    <img src="https://sportsopendata.net/wp-content/uploads/2015/07/logo.png" alt="Logo Sports Open Data" width="150" />
 </a>
