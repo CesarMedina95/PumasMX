@@ -10,14 +10,15 @@ Repository estructure
 |  
 ├── README.md         <- Main Readme file with the description of the project.  
 |  
-├── CONTRIBUTING.md   <- Steps yo contribute to the project.  
+├── CONTRIBUTING.md   <- Steps of how to contribute in the project.  
 |  
 ├── CITATION.md       <- Way to cite the project.  
 |  
+------ Archives------
 ├── data              <- Original data bases.  
 |  
-├── doc               <- Archivos de texto.  
+├── doc               <- Text files.  
 |  
-├── results           <- Clean and analyzes data bases.  
+├── results           <- Cleaning nd analyzing data bases.  
 |  
 └── src               <- Coding files.  
