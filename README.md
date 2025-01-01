@@ -15,6 +15,7 @@ Repository estructure
 ├── CITATION.md       <- Way to cite the project.  
 |  
 ------ Archives------
+
 ├── data              <- Original data bases.  
 |  
 ├── doc               <- Text files.  
